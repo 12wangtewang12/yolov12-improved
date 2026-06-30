@@ -1,0 +1,516 @@
+[33mcommit 6c9785424587527b9df03b6fd2126a2e4cee98c0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Wang Te <2218979520@qq.com>
+Date:   Mon Jun 15 11:16:02 2026 +0800
+
+    初始提交：原始YOLOv12代码
+
+[33mcommit 01a22c0603e0eaa6d9bd62120a391e744d92cea2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mexp/my-second-improvement[m[33m, [m[1;32mexp/my-first-improvement[m[33m)[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Thu May 14 13:07:14 2026 -0700
+
+    Update README.md
+
+[33mcommit 81b2c7cc9c269075cdaacc6c78cfafd207f605fe[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Thu May 14 13:00:43 2026 -0700
+
+    Update README.md
+
+[33mcommit d3cbe103b992ff6dd20c722e84e1b6f18f4c5efc[m
+Merge: 3bca22b 85112a6
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Feb 17 22:59:58 2026 -0500
+
+    Merge pull request #65 from Deng-Xian-Sheng/main
+    
+    Fix the "Installation" section of the main branch's README.md
+
+[33mcommit 3bca22b336e96cfdabfec4c062b84eef210e9563[m
+Merge: 2db2bae 9a1ad8c
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Oct 3 14:32:46 2025 -0400
+
+    Merge pull request #153 from liuhuiCNN/main
+    
+    Add .gitignore file.
+
+[33mcommit 9a1ad8cb487a6ff10f6de85e8ec0b544188b7d88[m
+Author: cnn <hui.liu.cnn@gmail.com>
+Date:   Sun Sep 28 11:02:55 2025 +0800
+
+    Add .gitignore file.
+
+[33mcommit 2db2baea0f62e896ac85d4c412925a03136ddda7[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Aug 13 12:37:45 2025 -0400
+
+    Update README.md
+
+[33mcommit 8ac4c18b10d40665db7e0a72fe0ac176b2855d4e[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jul 1 13:15:45 2025 -0400
+
+    Update README.md
+
+[33mcommit 9422f97c25ea3ee5f25a29d079a55a49bd9c5602[m[33m ([m[1;33mtag: [m[1;33mcls[m[33m)[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jul 1 13:00:33 2025 -0400
+
+    cls
+
+[33mcommit 9e1d1c3abe2922611432881df89c8f0845bb68c6[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jul 1 12:43:05 2025 -0400
+
+    Update README.md
+
+[33mcommit 44466a0ed85e9e4e54a72c504019c2d25548fbaf[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jul 1 12:42:05 2025 -0400
+
+    Update README.md
+
+[33mcommit 6504d4a0d1ccdc341c5aaefd9d587be9260d2345[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jul 1 12:40:58 2025 -0400
+
+    Update README.md
+
+[33mcommit 88631c4681d380e833c963311ae8ddd7f35105e5[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:16:06 2025 -0400
+
+    Update README.md
+
+[33mcommit 9242c019c05af39312316aaf7d589457120f31df[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:07:00 2025 -0400
+
+    Update README.md
+
+[33mcommit 97431a3a0ac1a09d83a6ffcecb9f98b2bfcc3458[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:04:28 2025 -0400
+
+    Update README.md
+
+[33mcommit fdccecd8753901b164f2d4b053da6d00c9fbffcc[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:04:10 2025 -0400
+
+    Update README.md
+
+[33mcommit a4f944b3ab1334dd95c25fd79bb8d1c3bc288731[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:03:13 2025 -0400
+
+    Update README.md
+
+[33mcommit ac0b94c29962f424bc59247f4179d40acc1e2af6[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Jun 17 17:02:50 2025 -0400
+
+    Update README.md
+
+[33mcommit 8dce9a9624036dc32388abd4a670a48361a08ad5[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:59:31 2025 -0400
+
+    Update README.md
+
+[33mcommit bac5c7a7dbf19c5b1177cef5ef3d011821676ae2[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:59:09 2025 -0400
+
+    Update README.md
+
+[33mcommit baa7782c7f735b326005d536788183a8d1c68bdc[m[33m ([m[1;33mtag: [m[1;33mseg[m[33m)[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:59 2025 -0400
+
+    seg
+
+[33mcommit 7fb5401a63d3a3cfb68f053e26625be9ef0d6bea[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:46 2025 -0400
+
+    Delete logs/yolov12_seg_n.csv
+
+[33mcommit 771eae920739f49fbccec55658342954bd8a62f5[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:38 2025 -0400
+
+    Delete logs/yolov12_seg_x.csv
+
+[33mcommit ef8e3f7908cfd96938b718c7d8eb35fd533a7100[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:28 2025 -0400
+
+    Delete logs/yolov12_seg_s.csv
+
+[33mcommit 08596d6f756b0f8cef3c7f99cbd3def760c1cf32[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:19 2025 -0400
+
+    Delete logs/yolov12_seg_m.csv
+
+[33mcommit 21a847148d8e9b37426c5aa53f9ccd21be2adfc6[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:26:09 2025 -0400
+
+    Delete logs/yolov12_seg_l.csv
+
+[33mcommit 67ad34d52403d91c5a8811f7c3b9af8b642a0daa[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:25:42 2025 -0400
+
+    seg
+
+[33mcommit 2c6c6e291698f8f88a49fb87eb200b2867cbcd0b[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:25:29 2025 -0400
+
+    seg
+
+[33mcommit 91fcd04f0661f48435c92edcc4c9806ff16a90cc[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:24:00 2025 -0400
+
+    Add files via upload
+
+[33mcommit 4e7961ed68a0b7756a934e88f89558a698bcf5e5[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:16:07 2025 -0400
+
+    Update README.md
+
+[33mcommit e6593717ba7485c65ac039f1e150157d05263311[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:15:29 2025 -0400
+
+    Update README.md
+
+[33mcommit b286cae74289e598f459e8228ec26d108364bb09[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 16:14:54 2025 -0400
+
+    Update README.md
+
+[33mcommit ffb3d5bb167949bee5cda2cfcc0863c136086f63[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:52:32 2025 -0400
+
+    Update README.md
+
+[33mcommit 5bf217ae51f5c2a90cc38349c26ed965728610f8[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:49:57 2025 -0400
+
+    Update README.md
+
+[33mcommit ac940a467237faa42bb5b4de98c3a9880a9be31b[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:45:18 2025 -0400
+
+    Update README.md
+
+[33mcommit 52487f8c25877ceedbd7cf990640ceb87c120cf1[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:37:40 2025 -0400
+
+    Update README.md
+
+[33mcommit 26e360c95f87e15b50142a92e857a8844061372c[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:32:49 2025 -0400
+
+    Update README.md
+
+[33mcommit 92ae45d6cb12fe4b028dd7d0de900bbc448d00a4[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Wed Jun 4 15:30:11 2025 -0400
+
+    Update README.md
+
+[33mcommit 7636fc9aab11de27b6248639f1815f11cbfa3a0d[m
+Merge: 5190113 4144a50
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue May 20 22:07:01 2025 -0400
+
+    Merge pull request #107 from merbfr/mybranch
+    
+    Fix 'AAttn' object has no attribute 'qk' by adding supervision==0.22
+
+[33mcommit 4144a50ad53e12a6e537e4da2760c41e6d3763ce[m
+Author: Meriem BENHAFRI <meriem.benhafri@icosnet.local>
+Date:   Tue May 20 23:08:09 2025 +0100
+
+    Fix 'AAttn' object has no attribute 'qk' by adding supervision==0.22
+
+[33mcommit 51901136772609c36df65cec1131d54b4f1a44df[m
+Merge: 6f7a15b df6c9e4
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Apr 15 12:45:36 2025 -0400
+
+    Merge pull request #92 from lightly-ai/main
+    
+    Add LightlyTrain Integration for Pretraining Support
+
+[33mcommit df6c9e4c3c862c16593fa89fb589e5d7a7388627[m
+Merge: 6f7a15b 003e289
+Author: Yutong Xiang <28484164+yutong-xiang-97@users.noreply.github.com>
+Date:   Mon Apr 14 13:40:59 2025 +0200
+
+    Merge pull request #1 from lightly-ai/add-lightly-train-support-to-readme
+    
+    Add Lightly Support to README
+
+[33mcommit 003e28965e7eee80589b293942b829264f9a9ed8[m
+Author: yutong <yutong@lightly.ai>
+Date:   Fri Apr 11 18:17:08 2025 +0200
+
+    replace colab link
+
+[33mcommit e0d08032bb37df0afd772e49da814135d26c2801[m
+Author: yutong <yutong@lightly.ai>
+Date:   Fri Apr 11 09:13:04 2025 +0200
+
+    add lightly support to readme
+
+[33mcommit 6f7a15b6cf57c5dd0c4c594bb14da423ded988f7[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Mon Mar 31 15:15:28 2025 -0400
+
+    bug fix
+
+[33mcommit a36c50bb192846002958010da2eae9b39f920050[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Mar 18 11:06:45 2025 -0400
+
+    Update README.md
+
+[33mcommit e011b1012ccbd6f208afe29dc21e251920c76784[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sun Mar 9 23:58:08 2025 -0400
+
+    Update README.md
+
+[33mcommit 85112a6228da259d67dc1be93dc775de9dcf3a3b[m
+Author: 靳灿奇 <x17615848429@sina.com>
+Date:   Mon Mar 10 05:50:30 2025 +0800
+
+    Fix README.md Install
+
+[33mcommit 4856283cae896b266fd5be56d99b841bc88e9b29[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 09:59:26 2025 -0500
+
+    Update README.md
+
+[33mcommit c5aed191c25303ee32ab90711ac6a4f260637c3e[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 01:04:52 2025 -0500
+
+    Update README.md
+
+[33mcommit cb10699d00c1cb3cf8343e23520229b99d21d50e[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 01:02:59 2025 -0500
+
+    Update README.md
+
+[33mcommit 8118a18dc5e6bba425b773e8c67b9489945b9c0c[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 01:02:00 2025 -0500
+
+    Update README.md
+
+[33mcommit 28a618bb06f38eef5402ae8f7326e86063db93de[m[33m ([m[1;33mtag: [m[1;33mturbo[m[33m)[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:34:19 2025 -0500
+
+    Update README.md
+
+[33mcommit 83d630b637f2a6780eaa1df15a77f132205fc3ff[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:33:05 2025 -0500
+
+    download
+
+[33mcommit 1009b437d89491aeade91ba1a27e50e38e5c98e0[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:26:55 2025 -0500
+
+    Update README.md
+
+[33mcommit 80c3383ee180adfca70a51ff95c9f5fa2c63e70e[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:26:05 2025 -0500
+
+    Update README.md
+
+[33mcommit dbea206559958c7066f7a85afa75aecfd1a8b348[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:22:38 2025 -0500
+
+    Update README.md
+
+[33mcommit 089f89ba469daad300c64eb80204d5e496726c55[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:21:41 2025 -0500
+
+    Update README.md
+
+[33mcommit 6c1c297be2809de07d019e6a4a31b651df3b17b9[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:20:06 2025 -0500
+
+    Update README.md
+
+[33mcommit 63996ee2c9da796e3cf5aaf36474ab66bbda5ae0[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:19:18 2025 -0500
+
+    Update block.py
+
+[33mcommit f6d2288b29f3424869e1b57aaa123942edd0db56[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:17:18 2025 -0500
+
+    tasks
+
+[33mcommit 6c5fdd82518d94751aa858893306ae7940ab12fa[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Mar 8 00:16:43 2025 -0500
+
+    turbo cfg
+
+[33mcommit fa3d8cef05468e5ff08afe83faffa12bfcf154cd[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Mar 7 23:45:43 2025 -0500
+
+    turbo logs
+
+[33mcommit 2177a6c43b5d4c7ffa958b1cfdc7e0875bae5e14[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Mar 7 23:38:34 2025 -0500
+
+    ini
+
+[33mcommit c21d2dbb639156584c89bccdf606e9ffa12d22e4[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Mar 7 23:38:08 2025 -0500
+
+    Delete assets/tradeoff_turbo.svg
+
+[33mcommit 37cbe3991b76b0eb05d53e99f10a5a3e2cab87ca[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Mar 7 23:36:47 2025 -0500
+
+    Add files via upload
+
+[33mcommit 3a336a4adf3683d280e1a50d03fa24bbe7f24a5b[m[33m ([m[1;31morigin/V1.0[m[33m)[m
+Merge: 0fd9a5a e232af4
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Tue Mar 4 11:23:26 2025 -0500
+
+    Merge pull request #54 from JNX03/main
+    
+    Fix "Ray Tune Callback: Replace _get_session() with get_session()" (@jnx03)
+
+[33mcommit e232af4682b0a9393bce3995df7cfdd434b74abe[m
+Author: JN03 <112270477+JNX03@users.noreply.github.com>
+Date:   Tue Mar 4 23:13:56 2025 +0700
+
+    Add Kaggle Notebook
+    
+    This kaggle notebook have already patch some problem with the Yolov12 (Can be run normaly with this notebook)
+
+[33mcommit 90806e984dcdbf3f7510c3391d8ac1c935c026a2[m
+Author: JN03 <112270477+JNX03@users.noreply.github.com>
+Date:   Tue Mar 4 14:10:54 2025 +0700
+
+    Update raytune.py
+
+[33mcommit 0fd9a5a5516408fc0d2035b6f1bcf43bcb904c27[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Thu Feb 27 14:43:27 2025 -0500
+
+    Update README.md
+
+[33mcommit c59a0d56c8ae6b8f71dad88e1ddd787b385fdd51[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Thu Feb 27 14:42:25 2025 -0500
+
+    Update README.md
+
+[33mcommit cac315948613fc9a3f9933734aec999f42fb8d8e[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Mon Feb 24 15:56:34 2025 -0500
+
+    Update README.md
+
+[33mcommit 55e940ad35bd57a8bb516e016cb33c11ecec1c09[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Mon Feb 24 15:55:18 2025 -0500
+
+    Update README.md
+
+[33mcommit d814a49c82915b3e72a83c581ac2ada677b68ee9[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Mon Feb 24 10:10:46 2025 -0500
+
+    Update README.md
+
+[33mcommit 90b99c178a64fdc93eaf65e699e291e1ea3ea67d[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Mon Feb 24 10:10:27 2025 -0500
+
+    Update README.md
+
+[33mcommit 2677448e7fd4a9921dfb1a90f4e9577720726692[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sun Feb 23 08:52:38 2025 -0500
+
+    Update README.md
+
+[33mcommit dfb3d3a3a23029ebae8cfc4198fe03415d1a6db3[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Sat Feb 22 11:16:35 2025 -0500
+
+    block
+
+[33mcommit 0aa42779bf7048b418e04c081ed9a86b7cc79a53[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Feb 21 20:54:11 2025 -0500
+
+    conv
+
+[33mcommit 03d654e179e44b4c9115d53059272db09b23e410[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Feb 21 20:43:58 2025 -0500
+
+    block
+
+[33mcommit acd0ee670c9303535b161234c07a8ea72fdba4f8[m
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Feb 21 20:31:41 2025 -0500
+
+    conv
+
+[33mcommit 28c51222e0b7e265681a6309678558f0db0a7b8f[m
+Merge: 0055d33 3be44ef
+Author: 田运杰 <48153283+sunsmarterjie@users.noreply.github.com>
+Date:   Fri Feb 21 19:24:06 2025 -0500
+
+    Merge pull request #32 from mohamedsamirx/main
+    
+    Add a TensoRT CPP + CUDA Repo Link
+
+[33mcommit 3be44efff664517b42f1c60dd9e3aa2b134f6b2c[m
+Author: mohamed <mohamedsamirtkd@gmail.com>
+Date:   Sat Feb 22 02:17:39 2025 +0200
+
+    Update Readme
+
+[33mcommit 0055d33dc40162fe58f19ffee9abcead6c

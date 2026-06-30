@@ -147,7 +147,15 @@ class BaseModel(nn.Module):
                 x = y[m.f] if isinstance(m.f, int) else [x if j == -1 else y[j] for j in m.f]  # from earlier layers
             if profile:
                 self._profile_one_layer(m, x, dt)
-            x = m(x)  # run
+            # ---------- 添加输入 shape 打印 ----------
+            print(
+                f"Layer {m.i} ({m.type}): input  shape = {x.shape if isinstance(x, torch.Tensor) else [xi.shape for xi in x]}")
+            # ----------------------------------------
+            x = m(x)  # 前向传播
+            # ---------- 添加输出 shape 打印 ----------
+            print(
+                f"Layer {m.i} ({m.type}): output shape = {x.shape if isinstance(x, torch.Tensor) else [xi.shape for xi in x]}")
+            # ----------------------------------------
             y.append(x if m.i in self.save else None)  # save output
             if visualize:
                 feature_visualization(x, m.type, m.i, save_dir=visualize)
@@ -931,12 +939,18 @@ def attempt_load_one_weight(weight, device=None, inplace=True, fuse=False):
 
 
 def parse_model(d, ch, verbose=True):  # model_dict, input_channels(3)
-    """Parse a YOLO model.yaml dictionary into a PyTorch model."""
+
+    # 1. 函数参数
+    # d：从YAML文件读入的字典，必须包含backbone、head、nc等键。
+    # ch：初始化输入通道数，通常是【3】.
+    # verbose：控制是否打印模型结构日志。
     import ast
 
     # Args
     legacy = True  # backward compatibility for v3/v5/v8/v9 models
     max_channels = float("inf")
+    # 2. 初始化阶段
+    # 读取全局配置    从YAML中提取类别数、激活函数、缩放系数
     nc, act, scales = (d.get(x) for x in ("nc", "activation", "scales"))
     depth, width, kpt_shape = (d.get(x, 1.0) for x in ("depth_multiple", "width_multiple", "kpt_shape"))
     if scales:
@@ -946,6 +960,7 @@ def parse_model(d, ch, verbose=True):  # model_dict, input_channels(3)
             LOGGER.warning(f"WARNING ⚠️ no model scale passed. Assuming scale='{scale}'.")
         depth, width, max_channels = scales[scale]
 
+    # 设置激活函数
     if act:
         Conv.default_act = eval(act)  # redefine default activation, i.e. Conv.default_act = nn.SiLU()
         if verbose:
@@ -953,6 +968,8 @@ def parse_model(d, ch, verbose=True):  # model_dict, input_channels(3)
 
     if verbose:
         LOGGER.info(f"\n{'':>3}{'from':>20}{'n':>3}{'params':>10}  {'module':<45}{'arguments':<30}")
+
+    # 初始化追踪变量       追踪每一层的输出通道数，save用来保存输出的层的索引
     ch = [ch]
     layers, save, c2 = [], [], ch[-1]  # layers, savelist, ch out
     for i, (f, n, m, args) in enumerate(d["backbone"] + d["head"]):  # from, number, module, args
